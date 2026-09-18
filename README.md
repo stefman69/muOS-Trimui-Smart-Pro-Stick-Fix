@@ -6,7 +6,7 @@ There is a bug when pressing up fully on the sticks on the Trimui Smart Pro with
 1. Extract the TSP_Controller_Patch.sh file to the Roms/ports folder on your SD card
 2. Extract the tsp-controller-experimental folder to the MUOS folder on your SD card
 3. Put the SD card back in your console
-4. Open the TSP_Controller_Patch on the ports folder
+4. Open the TSP_Controller_Patch in the ports folder
 5. Run the stick calibration by pressing the A button
 6. Do not touch the sticks a few seconds to allow the center of the stick to calibrate
 7. After seeing the message asking you to spin your sticks around the edge, start spinning them at a medium pace
