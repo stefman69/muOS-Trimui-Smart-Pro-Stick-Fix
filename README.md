@@ -11,7 +11,7 @@ There is a bug when pressing up fully on the sticks on the Trimui Smart Pro with
 6. Do not touch the sticks a few seconds to allow the center of the stick to calibrate
 7. After seeing the message asking you to spin your sticks around the edge, start spinning them at a medium pace
 8. If you see your stick jittering in the center of the stick visualizer calibrate a dead zone using the D-pad by adding a percentage point and then spinning the stick a few times and seeing if it stays steady at centered, 7% seems to be good for both of my sticks
-9. After completing that it should say Successful in green in the top right corner
+9. After completing that it should say Profile Saved in green in the top right corner
 10. Press the X button to Install the patch
 11. Test it out in a game and see if it works
 12. Try the calibration again if you still have issues
